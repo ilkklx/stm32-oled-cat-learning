@@ -1,0 +1,39 @@
+# STM32CubeMX local metadata
+.mxproject
+
+# Editor settings
+.vscode/
+.idea/
+
+# Keil user settings
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.lst
+
+# Keil generated directories and build products
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+MDK-ARM/Stm32_Cat_hal/
+MDK-ARM/*.log
+MDK-ARM/*.bak
+
+# Common embedded build products
+*.axf
+*.bin
+*.crf
+*.d
+*.dep
+*.elf
+*.hex
+*.htm
+*.html
+*.lnp
+*.map
+*.o
+*.obj
+*.sct
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
